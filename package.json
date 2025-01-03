@@ -1,0 +1,24 @@
+{
+  "name": "express-(routing)-checkpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanakhemir/Express-Routing-Checkpoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sanakhemir/Express-Routing-Checkpoint/issues"
+  },
+  "homepage": "https://github.com/Sanakhemir/Express-Routing-Checkpoint#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
